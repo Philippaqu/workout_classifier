@@ -1,1 +1,7 @@
-.st-key-green buttn{color: green, background=green}
+/* More specific CSS selectors */
+.title {
+    color: #1E90FF;
+    font-size: 40px;
+    font-weight: bold;
+}
+
