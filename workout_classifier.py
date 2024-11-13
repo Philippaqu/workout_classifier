@@ -38,6 +38,7 @@ def main():
     html_temp = """
     <div style="padding: 13px;">
         <h1 class="title">Workout Type Classifier</h1>
+        <p>Find out what workout type you are!</p>
     </div>
     """
 
